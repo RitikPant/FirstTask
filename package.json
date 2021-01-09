@@ -1,0 +1,18 @@
+{
+  "name": "jsnode",
+  "version": "1.0.0",
+  "description": "expressSample",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "curl": "^0.1.4",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ritik",
+  "license": "ISC"
+}
